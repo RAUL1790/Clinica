@@ -11,9 +11,9 @@ session_start();
 	                    <div class="col-md-5">  
 	                          <ul class="nav nav-tabs" id="subir">
                               <li role="presentation" <?php if($_SESSION['lugar'] == "index"){ echo "class='active'"; }?> ><a href="index.php">Inicio</a></li>
-                                  <li role="presentation" class="dropdown" >
+                                  <li role="presentation" <?php if($_SESSION['lugar'] == "info"){ echo "class='dropdown active'"; }else{ echo "class='dropdown'"; }?> >
                                     <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
-                                      Información <span class="caret"></span>
+                                      Información <span class="caret" ></span>
                                     </a>
                                     <ul class="dropdown-menu" role="menu">
                                       <li><a href="info.php#especialidades">Especialidades</a></li>
