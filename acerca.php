@@ -106,28 +106,28 @@ $('#exampleModal').on('show.bs.modal', function (event) {
      <div class="container-fluid" id="cabecera">
          <?php include('menu.php'); ?>
      </div>
-     <div id="contenedor">
+
      <div class="container-fluid" id="central">
         <!--               CARROUSEL                    -->
      </div>
      
 
      <div class="container-fluid" id="mensaje">
-      <div class="col-md-10 col-md-offset-1">
-         <h1>Providing You with Health Care at Home.</h1> 
-                                         <br/>
-      <p style="text-align:justify; text-indent:40px;">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.​</p> 
-      <p style="text-align:justify; text-indent:40px;">This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+         <h1>Clínica Universitaria Margarita</h1> <br/>
+      <p style="text-align:justify;">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.​</p> 
+      <p style="text-align:justify;">This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>
       </div>
-       <div class="col-md-1"></div>
+       <div class="col-md-2"></div>
     </div>
      <div class="container-fluid">
-      <div class="row">
+        <div class="col-md-12"></div>
         <div class="col-md-2"></div>
            <div class="col-md-8"  style="background-color:#FFFFFF;">
            <h1>About Grace Homecare</h1>
  
-<p style="text-align:justify; text-indent:40px;">
+<p style="text-align:justify;">
 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
 
 ​
@@ -140,31 +140,12 @@ At Wix we’re passionate about making templates that allow you to build fabulou
 
              
             </div>
-        <div class="col-md-1"></div>
-      </div>
-      </div>
-     </div>
+        <div class="col-md-2"></div>
+        </div>
+   </div>
 
 
-<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
+
 <div class="container-fluid" id="pie">
          <div class="col-md-12" >
                   </br><h6>© 2014 by Udone. Creado por Estudiantes de Informática</h6></br>
