@@ -95,18 +95,21 @@ $_SESSION['lugar']= "index";
      
 
      <div class="container-fluid" id="mensaje">
-      <div class="col-md-12">
-         <h1>Providing You with Health Care at Home.</h1> 
-                                         <br/>
-      <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.​</p> 
-      <p>This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>
+       <div class="row">
+         <div class="col-md-2"></div>
+         <div class="col-md-8">
+               <h1>Providing You with Health Care at Home.</h1> <br/>
+                <p style="text-align:justify;text-indent:40px;">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.​</p> 
+                <p style="text-align:justify;text-indent:40px;">This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>
+        </div>
+        <div class="col-md-2"></div>
       </div>
     </div>
       <div class="container-fluid" id="informacion">
       <div class="row">
            <div class="col-md-6">
               <h3>Services</h3>
-            <p>Grace Homecare provides these medically supervised services to the patient at home:</p>
+               <p>Grace Homecare provides these medically supervised services to the patient at home:</p>
               <ul>
                <li>Skilled Nursing Care</li>
                <li>Infusion Therapy</li>
@@ -119,14 +122,14 @@ $_SESSION['lugar']= "index";
             <div class="col-md-6">
                <h3>Rentals</h3>
               <p>Rent a large range of medical equipment including:</p>
-                <ul>
+              <ul>
 	              <li>Stair-Lift Rental</li>
 	              <li>Wheelchair Rental</li>
-				  <li>Hospital Bed Rental</li>
-				  <li>Mobility Scooters</li>
-				  <li>Respiratory Therapy</li>
-				  <li>And many other options See more >></li>
-			  </ul>
+      				  <li>Hospital Bed Rental</li>
+      				  <li>Mobility Scooters</li>
+      				  <li>Respiratory Therapy</li>
+      				  <li>And many other options See more</li>
+			        </ul>
             </div>
       </div>
       </div>

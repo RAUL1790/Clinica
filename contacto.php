@@ -66,7 +66,7 @@ $_SESSION['lugar']= "contacto";
         </div>
         <div class="col-md-6">
             <h4 style="margin-top:120px;">También puede contactarnos personalmente. Estamos ubicados en:</br>
-                  <p></br></br></br><strong>Sector Punta Arenas bla bla bla</br>
+                  <p></br></br></br><strong>Sector Punta Arenas</br>
                   Municipio Península de Macanao, Nueva Esparta</br>
                   </strong></br></p></br>
               </h4>
