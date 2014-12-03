@@ -35,13 +35,16 @@ $_SESSION['lugar']= "info";
         <div class="col-md-6" id="especialidades">
           <h3 style="margin-top:80px; text-align:left; margin-bottom:30px;"><strong>Los mejores especialistas</strong></h3>
           <p style="text-align:justify; text-indent:40px;">
-              Grace Homecare is here to assist you with both long-term or respite solutions, providing excellent and professionally trained staff for live-in or live-out care.
-              Home Care Services
-               
-              Live-in Home Care
-              I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
-               
-              ​This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.
+              Contamos con los mejores especialistas nacionales e internacionales en cada una de sus ramas, capacitados para enfrentar cualquier caso y dar un diagnóstico
+              acertado a los pacientes y las pautas para llevar a cabo el correspondiente tratamiento médico.</br>
+          <p style="text-align:justify; text-indent:40px;">
+              Abarcamos una gran gama de especialidades médicas: <strong>Cardiología, Cirugías, Gastroenterología, Ginecología, Neonatología, Neumonología, Nutrición, 
+              Neurología, Oftalmología, Oncología, Ortopedia general e infantil, Otorrinolaringología, Psiquiatría, Pediatría, Urología y más. </strong> 
+          </p>
+          <p style="text-align:justify; text-indent:40px;">
+              Si desea obtener información más detallada, consultar disponibilidad médica o buscar información sobre un servicio específico
+              puede <a href="contacto.php"><em><strong>contactarnos aquí.</strong></em></a>
+          </p>
           </p>
         </div>
         <div class="col-md-6">
@@ -57,14 +60,20 @@ $_SESSION['lugar']= "info";
         <div class="col-md-6">
             <h3 style="margin-top:80px; text-align:right; margin-bottom:30px;"><strong>Carreras Universitarias</strong></h3>
               <p style="text-align:justify; text-indent:40px;">
-              Grace Homecare is here to assist you with both long-term or respite solutions, providing excellent and professionally trained staff for live-in or live-out care.
-              Home Care Services
-               
-              Live-in Home Care
-              I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
-               
-              ​This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.
-          </p>
+                  Ofrecemos titulos universitarios de las carreras asociadas a la clínica: <strong>Medicina general y una variada gama de especializaciones, carreras de gerencia y 
+                  administración</strong>, entre otros.
+                  <p style="text-align:justify; text-indent:40px;">
+                  Disponemos de los espacios necesarios para dictar las clases, en perfecto estado, con el fin de cumplir todas las necesidades y prácticas que cada carrera
+                  requiere : <strong>Laboratorios para prácticas médicas y de informática, bibliotecas, posibilidad de cumplir pasantias en nuestras instalaciones y más. </strong>
+                  El personal docente está conformado por los mejores profesionales en sus áreas, capácitados para transmitir todos los conocimientos necesarios a los estudiantes
+                  para su desarrollo profesional.
+
+                  <p style="text-align:justify; text-indent:40px;">
+                  Los mejores estudiantes egresados, tienen la oportunidad de ser absorbidos por la clínica si estos lo desean, brindandoles la oportunidad de ejercer su profesión
+                  en nuestras instalaciones médicas o formar parte del equipo docente encargado de dictar las carreras.
+              </p>
+              </p>
+             </p>
         </div>
       </div> <!-- fin row -->
 
@@ -73,13 +82,17 @@ $_SESSION['lugar']= "info";
         <div class="col-md-6" id="instalaciones">
           <h3 style="margin-top:80px; text-align:left; margin-bottom:30px;"><strong>Modernas Instalaciones</strong></h3>
           <p style="text-align:justify; text-indent:40px;">
-              Grace Homecare is here to assist you with both long-term or respite solutions, providing excellent and professionally trained staff for live-in or live-out care.
-              Home Care Services
-               
-              Live-in Home Care
-              I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
-               
-              ​This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.
+              Nuestras instalaciones son modernas y están a la vanguardia de los equipos médicos actuales disponibles en el país. La clínica esta perfectamente distribuida por sectores
+              dedicados a cada una de las especialidades : <strong>Quirófanos, salas de emergencia, consultorios médicos, habitaciones para pacientes.</strong> Además, contamos con  
+              equipos médicos de última tecnología y especializados, para hacer frente a cualquier diagnóstico y realización de exámenes sin la necesidad de abandonar la isla: <strong>exámenes
+              para diagnóstico de cancer, quimioterapias, diálisis, radiología, laboratorio digital y resonancia magnética nuclear.</strong>
+          <p style="text-align:justify; text-indent:40px;">
+              Si desea obtener información más detallada sobre nuestros servicios, exámenes y/o diagnósticos, puede <a href="contacto.php"><em><strong>contactarnos aquí.</strong></em></a>
+          </p>
+          <p style="text-align:justify; text-indent:40px;">
+              También contamos con modernos conjuntos residenciales tipo <strong>Penhouse</strong> dando la posibilidad a nuestro personal médico y estudiantes, de alojarse cerca de nuestras
+              instalaciones en espacios cómodos y de calidad.
+          </p>
           </p>
         </div>
         <div class="col-md-6">
@@ -173,14 +186,18 @@ $_SESSION['lugar']= "info";
         <div class="col-md-6" id="entretenimiento">
             <h3 style="margin-top:80px; text-align:right; margin-bottom:30px;"><strong>Espacios para entretenimiento</strong></h3>
               <p style="text-align:justify; text-indent:40px;">
-              Grace Homecare is here to assist you with both long-term or respite solutions, providing excellent and professionally trained staff for live-in or live-out care.
-              Home Care Services
-               
-              Live-in Home Care
-              I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
-               
-              ​This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.
-          </p>
+                    Nuestras instalaciones poseen también de espacios para el entretenimiento y recreación tanto de nuestro personal como de nuestros huespedes y los estudiantes. Contamos con canchas de futbol y tenis con grama artificial, asi como con 
+                    instructores de estas disciplinas que puedan ofrecer clases, entrenamientos y prácticas a  nuestros usuarios. 
+                    <p style="text-align:justify; text-indent:40px;">
+                    Aparte contamos con un moderno <strong>centro comercial que alberga una gran cantidad de tiendas variadas</strong>, un supermercado, ferias de comida, un pequeño teatro y un cine. Todo esto con la finalidad de facilitar todos los servicios posibles a nuestros 
+                    clientes, al alcance de su mano, evitando que estos tomen largos viajes hacia las ciudades principales.
+                    <p style="text-align:justify; text-indent:40px;">
+                    Disponemos también de un <strong>helipuerto y un puerto para embarcaciones</strong>, colocandonos en contacto directo y al alcance directo para que las personas de fuera de la isla y del país puedan visitarnos y disfrutar de los diferentes 
+                    servicios que ofrecemos.      
+              </p>
+                    
+              </p>
+              </p>
         </div>
       </div> <!-- fin row -->
 
@@ -188,13 +205,12 @@ $_SESSION['lugar']= "info";
         <div class="col-md-6" id="energia">
           <h3 style="margin-top:80px; text-align:left; margin-bottom:30px;"><strong>Energía : Paneles solares</strong></h3>
           <p style="text-align:justify; text-indent:40px;">
-              Grace Homecare is here to assist you with both long-term or respite solutions, providing excellent and professionally trained staff for live-in or live-out care.
-              Home Care Services
+              En la <strong>Clínica Universitaria Margarita</strong>, procuramos aprovechar todo el potencial del sitio donde nos encontramos ubicados: <strong>El municipio Península de Macanao</strong>. No solo aprovechamos sus amplios espacios sub-utilizados, sino que tambien valoramos
+              potencial en cuanto a materia energética se refiere. Por eso contamos con <strong>panales solares</strong>, capaces de dotar de energía electrica a todas nuestras instalaciones, debido al aprovechamiento de la gran cantidad de luz solar con la que cuenta el municipio.
+              <p style="text-align:justify; text-indent:40px;">
+              Además, como plus ecológico, estamos sacando provecho de la energía solar logrando un impacto sustancial en la reducción de elementos contaminantes en el aire que respiramos día a día. Este tipo de acciones son de <strong>importancia vital para nuestro planeta.</strong>
                
-              Live-in Home Care
-              I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
-               
-              ​This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.
+          </p>
           </p>
         </div>
         <div class="col-md-6">
@@ -209,13 +225,12 @@ $_SESSION['lugar']= "info";
         <div class="col-md-6">
             <h3 style="margin-top:80px; text-align:right; margin-bottom:30px;"><strong>Compromiso social</strong></h3>
               <p style="text-align:justify; text-indent:40px;">
-              Grace Homecare is here to assist you with both long-term or respite solutions, providing excellent and professionally trained staff for live-in or live-out care.
-              Home Care Services
-               
-              Live-in Home Care
-              I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
-               
-              ​This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.
+               Estamos totalmente comprometidos con la comunidad y los planes preventivos que en materia de salubridad se desarrollan en conjunto con entes gubernamentales y la empresa privada. Ofrecemos <strong>gratuitamente</strong> para los más necesitados
+               <strong>planes de vacunación, consultas médicas, jornadas de salud pública, planes de prevención y diagnóstico</strong>, con la finalidad de contribuir en el desarrollo  y beneficio de la isla.
+               <p style="text-align:justify; text-indent:40px;">
+               También se ofrecen oportunidades de trabajo para las personas que habitan en nuestras instalaciones, de acuerdo a su preparación y capacidades : Jardineros y personal de aseo y mantenimiento de las instalaciones, ayudantes de cocina, vigilantes, entre otros, contando además con 
+               beneficios que les son otorgados por trabajar con nosotros: <strong>seguros médicos, becas de estudio para sus  hijos o algún otro pariente, entre otros.</strong>
+          </p>
           </p>
         </div>
       </div> <!-- fin row -->
