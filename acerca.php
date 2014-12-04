@@ -18,11 +18,13 @@ $_SESSION['lugar']= "acerca";
 	<script type="text/javascript" src="js/bootstrap.js"></script>
 
 
-     <script src="http://maps.googleapis.com/maps/api/js"></script>
-     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-    <script type="text/javascript" 
-           src="https://maps.googleapis.com/maps/api/js?v=3.exp">
-    </script>
+   <!--  <script src="http://maps.googleapis.com/maps/api/js"></script> -->
+     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>-->
+    <script type="text/javascript" src="js/ajax.googleapis.com.jquery.min.js"></script> <!-- Este por el de arriba -->
+   
+
+  <!-- src="https://maps.googleapis.com/maps/api/js?v=3.exp">   -->
+    <script type="text/javascript" src="js/maps.googleapis.com.maps.api.js"> </script> <!-- Este por el de arriba -->
 
 <script type="text/javascript">
 $('#exampleModal').on('show.bs.modal', function (event) {
@@ -64,7 +66,7 @@ $('#exampleModal').on('show.bs.modal', function (event) {
 
              /*           PONER MARCADOR             */
           
-         var macanao =  new google.maps.LatLng(10.993793, -64.265954);
+         var macanao =  new google.maps.LatLng(10.9797044,-64.3732385);
           var marker = new google.maps.Marker({
            position : macanao,
            map : map,
@@ -91,7 +93,7 @@ $('#exampleModal').on('show.bs.modal', function (event) {
               });
 
           google.maps.event.addListener(marker, 'click', function() {
-            map.setZoom(12);
+            map.setZoom(15);
             map.setCenter(marker.getPosition());
              llamar_modal();
           });
@@ -112,12 +114,13 @@ $('#exampleModal').on('show.bs.modal', function (event) {
      </div>
      
 
-     <div class="container-fluid" id="mensaje">
+     <div class="container-fluid" id="mensaje_acerca">
       <div class="col-md-2"></div>
       <div class="col-md-8">
-         <h1>Clínica Universitaria Margarita</h1> <br/>
+      <!--   <h1>Clínica Universitaria Margarita</h1> <br/>
        <p style="text-align:justify;text-indent:40px;">La clínica Universitaria Margarita es una organización constituida por un equipo médico altamente especializado que cuenta con el apoyo del mejor personal auxiliar (Bioanalistas, Técnicos Radiólogos, Enfermeras profesionales y Auxiliares, entre otros) y un personal administrativo y obrero de alta calidad profesional y humana, que juntos son el pilar fundamental de una adecuada asistencia a nuestros pacientes.</p>
        <p style="text-align:justify;text-indent:40px;">Contamos con una emergencia capacitada y bien dotada que se encargar de atender a todos nuestros pacientes de manera oportuna y adecuada, ofrecemos la Unidad de Emergencia y Terapia Intensiva de Adultos, además de un servicio especializado de Emergencias Pediátricas, también Contamos con 60 amplios quirófanos de última generación, 20 salas de parto, 30 sala de recuperación anestésica, la mas moderna central de esterilización y el más sofisticado apoyo tecnológico en equipamiento e instrumental. Todos nuestros médicos están altamente calificados y comprometidos con su bienestar por que en la Clínica Universitara Margaria lo primero es su salud estamos ubicados en el Sector Punta Arenas,Municipio Península de Macanao, Nueva Esparta.</p> 
+      -->
       </div>
        <div class="col-md-2"></div>
     </div>

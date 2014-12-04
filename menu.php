@@ -3,7 +3,7 @@
                       <div class="col-md-12">
                        <div class="col-md-2"></div>
 	                    <div class="col-md-3">  
-	                         LOGO
+	                         <img id= "logo" src="img/logo.jpg">
 	                    </div>
 	                    <div class="col-md-7">  
 	                          <ul class="nav nav-tabs" id="subir">

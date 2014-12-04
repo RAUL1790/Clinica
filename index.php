@@ -99,8 +99,8 @@ $_SESSION['lugar']= "index";
          <div class="col-md-2"></div>
          <div class="col-md-8">
                <h1>Comprometidos con el desarrollo Tecnológico, Educacional y Saludable de la nación.</h1> <br/>
-                <p style="text-align:justify;text-indent:40px;">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.​</p> 
-                <p style="text-align:justify;text-indent:40px;">This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>
+                 <p style="text-align:justify;text-indent:40px;">La clínica Universitaria Margarita es una organización constituida por un equipo médico altamente especializado que cuenta con el apoyo del mejor personal auxiliar (Bioanalistas, Técnicos Radiólogos, Enfermeras profesionales y Auxiliares, entre otros) y un personal administrativo y obrero de alta calidad profesional y humana, que juntos son el pilar fundamental de una adecuada asistencia a nuestros pacientes.</p>
+                 <p style="text-align:justify;text-indent:40px;">Contamos con una emergencia capacitada y bien dotada que se encargar de atender a todos nuestros pacientes de manera oportuna y adecuada, ofrecemos la Unidad de Emergencia y Terapia Intensiva de Adultos, además de un servicio especializado de Emergencias Pediátricas, también Contamos con 60 amplios quirófanos de última generación, 20 salas de parto, 30 sala de recuperación anestésica, la mas moderna central de esterilización y el más sofisticado apoyo tecnológico en equipamiento e instrumental. Todos nuestros médicos están altamente calificados y comprometidos con su bienestar por que en la Clínica Universitara Margaria lo primero es su salud estamos ubicados en el Sector Punta Arenas,Municipio Península de Macanao, Nueva Esparta.</p> 
         </div>
         <div class="col-md-2"></div>
       </div>
@@ -108,27 +108,28 @@ $_SESSION['lugar']= "index";
       <div class="container-fluid" id="informacion">
       <div class="row">
            <div class="col-md-6">
-              <h3>Services</h3>
-               <p>Grace Homecare provides these medically supervised services to the patient at home:</p>
+              <h3>Servicios</h3>
+              <br>
               <ul>
-               <li>Skilled Nursing Care</li>
-               <li>Infusion Therapy</li>
-               <li>Physical Therapy</li>
-               <li>Accupational Therapy</li>
-               <li>Speech Therapy</li>
-               <li>And many other services See more >></li>
-              </ul>
+              <li>Emergencia.</li>
+              <li>Terapia intensiva.</li>
+              <li>Unidad quirúrgica.</li>
+              <li>Radiología e imagenes.</li>
+              <li>Cardiologia y hemodinamia.</li>
+              <li>Laboratorios.</li>
+              <li>Hospitalización y admisión.</li>
+              <li>Campús deportivo y habitacional.</li>
+                 </ul>
             </div>
             <div class="col-md-6">
-               <h3>Rentals</h3>
-              <p>Rent a large range of medical equipment including:</p>
+               <h3>Ofrecemos: </h3>
+              <br>
               <ul>
-	              <li>Stair-Lift Rental</li>
-	              <li>Wheelchair Rental</li>
-      				  <li>Hospital Bed Rental</li>
-      				  <li>Mobility Scooters</li>
-      				  <li>Respiratory Therapy</li>
-      				  <li>And many other options See more</li>
+	              <li>Complejo Habitacional De Profesores y estudiantes.</li>
+                <li>Universidad especializada en medicina.</li>
+                <li>Complejo deportivo.</li>
+                <li>Centro comercial.</li>
+                <li>Aeropuerto privado.</li>
 			        </ul>
             </div>
       </div>
